@@ -98,6 +98,7 @@ header .container {
 
 figure figcaption {
   margin: 20px 0;
+  margin-top: 1em;
   font-size: 18px;
 }
 
