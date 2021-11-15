@@ -96,7 +96,7 @@ $(function(){
 
 
 // selector string
-imagesLoaded( '#container', function() {
+imagesLoaded( '.page', function() {
     console.log('loaded')
     $('.page').removeClass('loading');
     $('progress').hide();
