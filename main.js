@@ -93,3 +93,11 @@ $(function(){
 
     $('.work-list > li').eq(0).trigger('click');
 })
+
+
+// selector string
+imagesLoaded( '#container', function() {
+    console.log('loaded')
+    $('.page').removeClass('loading');
+    $('progress').hide();
+});
