@@ -36,11 +36,6 @@ header p {
   padding: 0;
 }
 
-#works .container > ul,
-#works .container > .figure {
-  /* width: 50%; */
-}
-
 #works .container > .figure {
   display: flex;
   justify-content: center;

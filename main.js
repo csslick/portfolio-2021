@@ -1,9 +1,9 @@
 const data = [
   {
     id: 1,
-    name: "권영우",
-    img: `https://via.placeholder.com/300?text=kwon-yeong-woo`,
-    url: "https://via.placeholder.com/300?text=1",
+    name: "송유진",
+    img: "images/송유진.png",
+    url: "https://eugeneeeeee.github.io/portfolio/index.html",
   },
   {
     id: 2,
@@ -13,9 +13,9 @@ const data = [
   },
   {
     id: 3,
-    name: "김채은",
-    img: "images/김채은.png",
-    url: "https://chaeeun7131.github.io/portfolio/",
+    name: "신은영",
+    img: "images/신은영.png",
+    url: "https://eunyoungdana.github.io/portfolio/",
   },
   {
     id: 4,
@@ -25,21 +25,22 @@ const data = [
   },
   {
     id: 5,
+    name: "권순민",
+    img: "images/권순민.png",
+    url: "https://ks830111.github.io/pptHome/",
+  },
+  {
+    id: 6,
     name: "양상현",
     img: "images/양상현.png",
     url: "https://sangchu98.github.io/Portfolio/",
   },
-  {
-    id: 6,
-    name: "이지은",
-    img: "images/이지은.png",
-    url: "https://zinio3o.github.io/portfolio/",
-  },
+
   {
     id: 7,
-    name: "최수미",
-    img: `https://via.placeholder.com/300/eee?text=choi-su-mi`,
-    url: "https://via.placeholder.com/300/300&text=4",
+    name: "문성훈",
+    img: "images/문성훈.png",
+    url: "https://sunghoon-moon-portfolio.netlify.app/",
   },
   {
     id: 8,
